@@ -18,7 +18,7 @@ Meus estudos estão me proporcionando uma base sólida, especialmente em tecnolo
 
 - 💻 Java, Python 
 - 🌐 HTML, CSS, JavaScript
-- 🛠️ Spring Boot, React
+- 🛠️ Spring Boot, React, Bootstrap
 - 📱 Desenvolvimento Mobile (Android)
 - 🚀 Desenvolvimento Web e APIs
 

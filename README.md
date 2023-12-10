@@ -16,10 +16,10 @@ Meus estudos estão me proporcionando uma base sólida, especialmente em tecnolo
 
 ## Linguagens e Tecnologias
 
-- 💻 Java, Python, 
+- 💻 Java, Python 
 - 🌐 HTML, CSS, JavaScript
 - 🛠️ Spring Boot, React
-- 📱 Desenvolvimento Móvel (Android)
+- 📱 Desenvolvimento Mobile (Android)
 - 🚀 Desenvolvimento Web e APIs
 
 ## Projetos Destacados

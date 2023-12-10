@@ -2,6 +2,11 @@
 
 Olá, visitante! Eu sou Lucas Felinto, um entusiasta da tecnologia e apaixonado por programação. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e explorando ideias interessantes.
 
+Ao longo da minha jornada profissional, tive o privilégio de trabalhar na área de Redes e Infraestrutura de TI, onde aprendi muito e desenvolvi habilidades valiosas.
+Atualmente, estou em uma empolgante transição de carreira para o desenvolvimento, focando em projetos pessoais e acadêmicos nos últimos meses.
+Meus estudos estão me proporcionando uma base sólida, especialmente em tecnologias como Java, Spring Boot, MySQL, MongoDB, Git e GitHub. Tenho um carinho especial por essas ferramentas e estou ansioso para aplicar meus conhecimentos em um novo cenário.
+
+
 ## Sobre Mim
 
 - 👨‍💻 Desenvolvedor de Software
@@ -11,8 +16,9 @@ Olá, visitante! Eu sou Lucas Felinto, um entusiasta da tecnologia e apaixonado 
 
 ## Linguagens e Tecnologias
 
-- 💻 Java, Python, JavaScript
-- 🌐 HTML, CSS, React
+- 💻 Java, Python, 
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Spring Boot, React
 - 📱 Desenvolvimento Móvel (Android)
 - 🚀 Desenvolvimento Web e APIs
 
@@ -21,15 +27,12 @@ Olá, visitante! Eu sou Lucas Felinto, um entusiasta da tecnologia e apaixonado 
 - 🌟 [Plataforma-Semana-Da-Computacao](https://github.com/rafaelpdemelo/Plataforma-Semana-Da-Computacao/tree/master)
 - 🌟 [Persistencia_arquivos_java](https://github.com/lucasvfelinto/Persistencia_arquivos_java)
 
-## Contribuições
-
-Contribuições e feedback são sempre bem-vindos! Sinta-se à vontade para explorar meus projetos, abrir _issues_ ou enviar _pull requests_.
-
 ## Entre em Contato
 
 - 📧 Email: lucas.felinto.office@gmail.com
+- 🔗 Web Site: bit.ly/curriculo-lucasvfelinto
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucasvfelinto)
-- 🐦 Instagram: [@lucasvfelinto](https://twitter.com/lucasvfelinto)
+- 📸 Instagram: [@lucasvfelinto](https://twitter.com/lucasvfelinto)
 
 ## Agradecimentos
 

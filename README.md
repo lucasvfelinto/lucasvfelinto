@@ -24,15 +24,15 @@ Meus estudos estão me proporcionando uma base sólida, especialmente em tecnolo
 
 ## Projetos Destacados
 
-- 🌟 [Plataforma-Semana-Da-Computacao](https://github.com/rafaelpdemelo/Plataforma-Semana-Da-Computacao/tree/master)
-- 🌟 [Persistencia_arquivos_java](https://github.com/lucasvfelinto/Persistencia_arquivos_java)
+- 🌟 [Plataforma-Semana-Da-Computacao](https://github.com/rafaelpdemelo/Plataforma-Semana-Da-Computacao/tree/master){:target="_blank"}
+- 🌟 [Persistencia_arquivos_java](https://github.com/lucasvfelinto/Persistencia_arquivos_java){:target="_blank"}
 
 ## Entre em Contato
 
 - 📧 Email: lucas.felinto.office@gmail.com
-- 🔗 Web Site: [Meu Site](https://lucas-felinto-curriculo_2022.surge.sh/)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucasvfelinto)
-- 📸 Instagram: [@lucasvfelinto](https://twitter.com/lucasvfelinto)
+- 🔗 Web Site: [Meu Site](https://lucas-felinto-curriculo_2022.surge.sh/){:target="_blank"}
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucasvfelinto){:target="_blank"}
+- 📸 Instagram: [@lucasvfelinto](https://twitter.com/lucasvfelinto){:target="_blank"}
 
 ## Agradecimentos
 

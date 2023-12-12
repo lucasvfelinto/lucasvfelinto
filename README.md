@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Perfil do GitHub!
+# Bem-vindo ao Meu GitHub!
 
 Olá, visitante! Eu sou Lucas Felinto, um entusiasta da tecnologia e apaixonado por programação. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e explorando ideias interessantes.
 

@@ -30,7 +30,7 @@ Meus estudos estão me proporcionando uma base sólida, especialmente em tecnolo
 ## Entre em Contato
 
 - 📧 Email: lucas.felinto.office@gmail.com
-- 🔗 Web Site: <a href="https://lucas-felinto-curriculo_2022.surge.sh/" target="_blank">Meu Site</a>
+- 🔗 Web Site: <a href="https://lucas-felinto-curriculo_2022.surge.sh/" onclick="window.open(this.href); return false;">Meu Site</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/lucasvfelinto/" target="_blank"> LinkedIn</a>
 - 📸 Instagram: <a href="https://instagram.com/lucasvfelinto" target="_blank"> @lucasvfelinto</a>
 

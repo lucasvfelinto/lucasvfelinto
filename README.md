@@ -28,9 +28,9 @@ Meus estudos estão me proporcionando uma base sólida, especialmente em tecnolo
 
 ## Entre em Contato
 
-<a href = "mailto: lucas.felinto.office@gmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://lucas-felinto-curriculo_2022.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-My%20WebSite-%23000000?style=for-the-badge&logo=website&logoColor=white&color=FF5733"></a>
 <a href="https://www.linkedin.com/in/lucasvfelinto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://lucas-felinto-curriculo_2022.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-My%20WebSite-%23000000?style=for-the-badge&logo=website&logoColor=white&color=FF5733"></a>
+<a href = "mailto: lucas.felinto.office@gmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lucasvfelinto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 

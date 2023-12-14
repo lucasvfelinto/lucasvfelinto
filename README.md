@@ -21,7 +21,7 @@ public class Developer {
 ```
 Olá, visitante! Eu sou Lucas Felinto, um entusiasta da tecnologia e apaixonado por programação. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e explorando ideias interessantes.
 
-Com experiência em Redes e Infraestrutura de TI, atualmente, em transição para desenvolvimento, focando em tecnologias como Java, Spring Boot, C#, .NET, HTML, CSS e Javascript, SQL, MySQL, MongoDB. Aplicando essas habilidades em projetos pessoais e acadêmicos nos últimos meses.
+Com experiência em Redes e Infraestrutura de TI, atualmente, em transição para desenvolvimento, focando em tecnologias como Java, Spring Boot, C#, .NET, HTML, CSS ,Javascript, SQL, MySQL e MongoDB. Aplicando essas habilidades em projetos pessoais e acadêmicos nos últimos meses.
 
 Meus estudos estão construindo uma base sólida nessas ferramentas, e estou entusiasmado para aplicar esse conhecimento em novos desafios e cenários.
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.gif" width="100%" alt="Banner em pixel art: skyline de Recife à noite" />
+<img src="assets/header.gif?v=2" width="100%" alt="Banner em pixel art: skyline de Recife à noite" />
 
 <a href="https://github.com/lucasvfelinto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=00E5FF&center=true&vCenter=true&width=760&lines=Engenharia+de+software+aplicada+a+LLMs;Sa%C3%ADda+estruturada%2C+valida%C3%A7%C3%A3o+e+avalia%C3%A7%C3%A3o+com+gabarito;RAG+%C2%B7+MCP+%C2%B7+agentes+%C2%B7+fine-tuning;Python+%C2%B7+React+%C2%B7+Django+%C2%B7+Vue.js" alt="Texto animado com as áreas de atuação" />
@@ -122,5 +122,5 @@ Os sistemas em produção ficam em repositórios privados. O que segue descreve 
 </picture>
 
 <div align="center">
-<img src="assets/footer.gif" width="100%" alt="Rodapé em pixel art: mar à noite" />
+<img src="assets/footer.gif?v=2" width="100%" alt="Rodapé em pixel art: mar à noite" />
 </div>
